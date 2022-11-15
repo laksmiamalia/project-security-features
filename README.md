@@ -160,7 +160,7 @@ There are 3 different level of security features on Banknotes:<br>
 
 :link: [source](https://www.security-web.nl/glossary-banknotes/#g828) <br>
 
-## Setup <br>
+## SETUP
 
 Import the used Library <br>
 
@@ -181,7 +181,7 @@ df = pd.read_csv('Resume_Banknotes_all.csv')
 
 ```
 
-## USED Library <br>
+## USED LIBRARY
 
 Numpy, Matplotlib, Panda, Seaborn
 
