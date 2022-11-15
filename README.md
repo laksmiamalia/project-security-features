@@ -11,7 +11,7 @@ Security features on **Banknotes** not only used for security, but also help to 
 
 In this repository, there are 115 countries from all 5 continents, with 70 types of currencies. <br>
 
-**LIST OF COUNTRIES** <br>
+### LIST OF COUNTRIES
 
 **Continent:** Europe 
 |      COUNTRY     |     CURRENCY     |     COUNTRY     |     CURRENCY     |
@@ -93,8 +93,8 @@ In this repository, there are 115 countries from all 5 continents, with 70 types
 |Taiwan|TWD|Nepal|Nepalese Rupee|
 |Georgia|Lari|
 
-<br><br>
-
+<br>
+### LEVELS OF SECURITY FEATURES
 There are 3 different level of security features on Banknotes:<br>
 
 1. Level 1 <br> 
@@ -158,6 +158,27 @@ There are 3 different level of security features on Banknotes:<br>
 | Intaglio Contrast Effect (ICE) | An image printed with special inks by intaglio over the metal coated area of the polymer banknote. The element has an optically variable colour effect: the colours of the image become more contrasting when looking at the banknote at a very sharp angle | ![ICE](https://user-images.githubusercontent.com/113813929/201687620-54edfb23-f1ff-4a2c-a4e3-d355ff93afbb.JPG) ![ICE1](https://user-images.githubusercontent.com/113813929/201687643-4e96be7c-6ac7-4229-a611-dac0f2fd0262.JPG) |
 
 :link: [source](https://www.security-web.nl/glossary-banknotes/#g828) <br>
+
+## Setup <br>
+
+Import the used Library <br>
+
+```ruby
+
+import pandas as pd # for data processing
+import numpy as np # for array, linear algebra
+import matplotlib.pyplot as plt # to crreate stat and visualize data
+import seaborn as sns # to visualize data
+
+```
+
+Read the data <br>
+
+```ruby
+
+df = pd.read_csv('Resume_Banknotes_all.csv')
+
+```
 
 ## USED Library <br>
 
