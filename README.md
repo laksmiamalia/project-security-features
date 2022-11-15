@@ -94,6 +94,7 @@ In this repository, there are 115 countries from all 5 continents, with 70 types
 |Georgia|Lari|
 
 <br>
+
 ### LEVELS OF SECURITY FEATURES
 There are 3 different level of security features on Banknotes:<br>
 
