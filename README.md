@@ -1,6 +1,6 @@
 # SECURITY FEATURES ANALYSIST ON BANKNOTES <br><br>
 
-![Security Features](https://user-images.githubusercontent.com/113813929/200015758-80ab1a0b-7bc0-4c0e-89e5-4dd9ced950b4.png) <br><br>
+![Project_Security_Features](https://user-images.githubusercontent.com/113813929/202752673-d81185e6-92f0-4251-8b7d-19bd08bf2474.jpg) <br><br>
 
 Security features is a feature of a product, designed to provide access security :lock: for the product. It is really important, especially in Banknotes :moneybag:. <br>
 :link: [source]([docs/CONTRIBUTING.md](https://www.lawinsider.com/dictionary/security-feature#:~:text=Security%20feature%20means%20a%20feature%20of%20a%20product%20designed%20to,Sample%201)) <br>
