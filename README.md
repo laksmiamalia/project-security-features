@@ -9,6 +9,7 @@ Security features is a feature of a product, designed to provide access security
 Security features on **Banknotes** not only used for security, but also help to beautify the banknotes design. Each country issued their banknotes with different type of denominations, which also has different type of security features, based on the value of the banknotes. Usually, the higher the value of banknotes, the more Security Features will planted on it. <br><br>
 
 For interactive dashboard : :link: [Dashboard](https://datastudio.google.com/reporting/127a39c7-be23-4e95-82ff-f1818a61bfcd) 
+![image](https://user-images.githubusercontent.com/113813929/204117525-689612c9-bed3-4a33-9d2b-8a8e13dd79a2.png)
 
 ## PROJECT DESCRIPTION
 
