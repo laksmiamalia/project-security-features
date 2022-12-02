@@ -1,4 +1,4 @@
-# SECURITY FEATURES ANALYSIST ON BANKNOTES <br><br>
+# SECURITY FEATURES ANALYSIS ON BANKNOTES <br><br>
 
  ![Security Features](https://user-images.githubusercontent.com/113813929/202752988-d7a392f4-44b2-4bdb-b7b7-635d6d15c5e4.png)
 <br><br>
