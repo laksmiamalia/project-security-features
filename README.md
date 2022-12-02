@@ -12,7 +12,7 @@ Security features on **Banknotes** not only used for security, but also help to 
 
 In this repository, we analyze the security features on Banknotes from 115 countries worldwide. <br>
 
-For interactive Looker Dashboard : :link: [klik here](https://datastudio.google.com/s/g0s27hOuuH4) <br>
+For interactive Looker Dashboard : :link: [click here](https://datastudio.google.com/s/g0s27hOuuH4) <br>
 
 ### LIST OF COUNTRIES
 
